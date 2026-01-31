@@ -1,0 +1,8 @@
+{
+  "name": "  Platfòm Inivèsèl",
+  "description": "Yon aplikasyon boutik modèn nan lang Kreyòl pou achte rad, sandal, cheve, bijou, kosmetik ak materyèl elektrik ak sistèm charyo ak rezèvasyon otomatik.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
